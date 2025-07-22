@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e0e71&height=200&section=header&text=RAFAEL%20FERNANDES&fontSize=40&fontColor=ffffff&fontAlign=40&animation=fadeIn" />
+<div class="banner">
+  <img src="https://github.com/user-attachments/assets/4282832c-d32b-445b-85a7-b3338a3cfa08" alt="Banner AI Technology">
+</div>
 
 <h2 align="center">👋 OLÁ! EU SOU O RAFAEL</h2>
 
