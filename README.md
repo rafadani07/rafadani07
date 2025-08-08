@@ -4,15 +4,17 @@
 
 <h2 align="center">👋 OLÁ! EU SOU O RAFAEL</h2>
 
-<p align="center"><i>Técnico em Eletrônica | Estudante de Engenharia de Software | Apaixonado por tecnologia e inovação 🚀</i></p>
+<p align="center"><i>Técnico em Mecatrônica | Estudante de Engenharia de Software | Apaixonado por tecnologia e inovação 🚀</i></p>
 
 ---
 
 🎓 Atualmente cursando **Engenharia de Software** na Universidade São Judas – Campus Paulista (2025–2029)  
 💡 Formado em **Técnico em Mecatrônica** pelo SENAI Roberto Simonsen (2023–2024)  
-💼 Atuando como **Técnico Eletrônico** na Alltec Usinagem  
+💼 Atuando como **Técnico Eletrônico** na Alltec Usinagem 
+💻 Recem contratado pela Enel 
 📍 Localizado em **São Paulo - SP**  
-📚 Certificado em **IoT** e **Computer Hardware Basics** pela Cisco (FECAP)
+📚 Certificado em **IoT** e **Computer Hardware Basics** pela Cisco (FECAP)]
+
 
 ---
 
